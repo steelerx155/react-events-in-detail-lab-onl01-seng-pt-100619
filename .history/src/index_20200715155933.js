@@ -12,5 +12,3 @@ ReactDOM.render(
   </div>,
   document.getElementById('global')
 );
-
-export default index 
